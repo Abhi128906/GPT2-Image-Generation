@@ -15,7 +15,7 @@ Generate AI-based images from text prompts using a pre-trained Stable Diffusion 
 - Generates realistic AI images
 
 ## Sample Prompt
-"A futuristic city at night with neon lights"
+"A roaring Lion on a huge Rock where a photographer is clicking the pictures of the lion"
 
 ## Outcome
 Successfully generated AI-based images from text prompts.
